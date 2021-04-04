@@ -1,0 +1,6 @@
+# production
+target/
+
+
+# itellij
+.idea/
